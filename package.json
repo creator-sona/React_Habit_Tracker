@@ -2,7 +2,7 @@
   "name": "template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://creator-sona.github.io/react_habit_tracker",
+  "homepage": "https://creator-sona.github.io/React_Habit_Tracker",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.3",
     "@testing-library/jest-dom": "^5.11.4",
